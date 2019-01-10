@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"golang.org/x/crypto/pkcs12"
+	"github.com/arundhyani/crypto/pkcs12"
 )
 
 // Possible errors when parsing a certificate.
